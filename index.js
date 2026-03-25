@@ -5,7 +5,7 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const basePath = path.join(__dirname, 'assignment-2');
+const basePath = path.join(__dirname);
 
 app.use(express.static(basePath));
 
