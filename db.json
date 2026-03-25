@@ -1,0 +1,101 @@
+{
+  "Broke": {
+    "active": true,
+    "members": [
+      "Brandi",
+      "Dustin",
+      "Beau"
+    ],
+    "money": 929,
+    "description": "Brandi was left to raise two boys alone following her husband's suspicious pool ladder accident. With Dustin acting out, can Brandi teach young Beau to make the right choices in life?",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Broke.png",
+    "theme": "Survival & Hardship"
+  },
+
+  "Caliente": {
+    "active": true,
+    "members": [
+      "Dina",
+      "Nina"
+    ],
+    "money": 1040,
+    "description": "Was it just coincidence that the Caliente sisters arrived on the eve of Bella's disappearance? And is their interest in Mortimer physical... or fiscal?",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Caliente.png",
+    "theme": "Romance & Maniupulation"
+  },
+
+  "Dreamer": {
+    "active": true,
+    "members": [
+      "Darren",
+      "Dirk"
+    ],
+    "money": 968,
+    "description": "Darren is pursuing his dream of being an artist, while his son Dirk hits the books. And Darren may have found his muse, but will his creativity be enough to win Cassandra's affection?",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Dreamer.png",
+    "theme": "Love & Loss"
+  },
+
+  "Goth": {
+    "active": true,
+    "members": [
+      "Mortimer",
+      "Cassandra",
+      "Alexander"
+    ],
+    "money": 511632,
+    "description": "Cassandra is ready to start a family of her own, but can she tame the town Cassanova? And can Mortimer bounce back after the disappearance of his wife Bella?",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Goth.png",
+    "theme": "Mystery & Legacy"
+  },
+
+  "Lothario": {
+    "active": true,
+    "members": [
+      "Don"
+    ],
+    "money": 968,
+    "description": "Who is Don Lothario? Is his engagement to Cassandra Goth genuine? And what about the rumor that her mother, Bella, was last seen scaling the deck of his condo?",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Lothario.png",
+    "theme": "Cheating & Chaos"
+  },
+
+  "Pleasant": {
+    "active": true,
+    "members": [
+      "Daniel",
+      "Mary-Sue",
+      "Angela",
+      "Lilith"
+    ],
+    "money": 2250,
+    "description": "On the surface, Daniel and Mary-Sue Pleasant seem to have the perfect life, but is their love a flimsy façade? And can Angela and Lilith make the right choices when it comes to love?",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Pleasant.png",
+    "theme": "Family & Conflict"
+  },
+
+  "Burb": {
+    "active": false,
+    "members": [
+      "John",
+      "Jennifer",
+      "Lucy"
+    ],
+    "money": 21901,
+    "description": "John, Jennifer and young Lucy have decided to trade the fast-paced city life for some fresh air, and hope to make a nice home here in Pleasantview.",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Burb.png",
+    "theme": "Stability & Boredom"
+  },
+
+  "Oldie": {
+    "active": false,
+    "members": [
+      "Herb",
+      "Coral"
+    ],
+    "money": 20900,
+    "description": "The Oldies are simply one of the nicest families around. Their years together through good and bad have made them into the wonderful parents, and grandparents, they are today.",
+    "image": "https://raw.githubusercontent.com/queerincubus/households.json/main/Oldie.png",
+    "theme": "Aging & Legacy"
+  }
+}
