@@ -86,7 +86,7 @@
 
     </main>
     <style>
-        :root {
+                :root {
             --white: #FAF9F6;
             --cyan: #bbfcff;
         }
@@ -154,6 +154,7 @@
             position: fixed;
             opacity: 0.9;
             background-color: var(--white);
+			z-index: 1000;
         }
 
         #menuMobile {
@@ -256,6 +257,8 @@
             margin: 10px;
             border-radius: 20px;
             width: 250px;
+			position: relative;
+			z-index: 1;
         }
 
             .card img {
